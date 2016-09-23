@@ -6,6 +6,6 @@ Tripos.
 The questions were translated from Matlab versions by:
 
 - Joanna Buckland
-- Quang T. Ha
+- Quang T. Ha (<qth20@bu.edu>)
 - Joanna Stadnik
 - Garth N. Wells (<gnw20@cam.ac.uk>)
