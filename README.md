@@ -1,4 +1,11 @@
-# Part IA Examples Paper - Python
+# Part IA Examples Papers - Python
 
-Python exercises from examples papers in Part IA of the Engineering
+Computing exercises from examples papers in Part IA of the Engineering
 Tripos.
+
+The questions were translated from Matlab versions by:
+
+- Joanna Buckland
+- Quang T. Ha
+- Joanna Stadnik
+- Garth N. Wells (<gnw20@cam.ac.uk>)
